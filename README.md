@@ -2,4 +2,4 @@
 Generate POJO classes
 
 # How-To
-Change localhost:8080 on your index.jsp to your suitable localhost url and you are good to go
+Change localhost:8080 on the index.jsp to the suitable localhost url. Run it and you're good to go.
